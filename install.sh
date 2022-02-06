@@ -125,11 +125,21 @@ REPLACE="
 # Set what you want to display when installing your module
 
 print_modname() {
-  ui_print "*******************************"
-  ui_print "       OOS11 NOS/WTF MMS       "
-  ui_print "           v20220206           "
-  ui_print "         By tfae @ XDA         "
-  ui_print "*******************************"
+  ui_print "****************************************************"
+  ui_print "                  OOS11 NOS/WTF MMS                 "
+  ui_print "                      v20220206                     "
+  ui_print "                    By tfae @ XDA                   "
+  ui_print "****************************************************"
+  ui_print "                                                    "
+  ui_print "After the restart you need to reset your APNs under:"
+  ui_print "Settings >                                          "
+  ui_print "  Network & Internet >                              "
+  ui_print "    Mobile Network >                                "
+  ui_print "      Advanced >                                    "
+  ui_print "        Access Point Names >                        "
+  ui_print "          3 dots menu >                             "
+  ui_print "            Reset to default                        "
+  ui_print "This only needs to be done once!                    "
 }
 
 # Copy/extract your module files into $MODPATH in on_install.
