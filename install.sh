@@ -126,7 +126,7 @@ REPLACE="
 
 print_modname() {
   ui_print "****************************************************"
-  ui_print "                  OOS11 NOS/WTF MMS                 "
+  ui_print "                OOS11 NOS/WTF APN FIX               "
   ui_print "                      v20220206                     "
   ui_print "                    By tfae @ XDA                   "
   ui_print "****************************************************"

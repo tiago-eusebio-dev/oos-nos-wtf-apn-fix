@@ -1,4 +1,4 @@
-OOS NOS/WTF APN Fix
+OOS11 NOS/WTF APN FIX
 ==========
 
 Fixes MMS not sending/downloading using the Portuguese carrier NOS/WTF on OxygenOS 11.

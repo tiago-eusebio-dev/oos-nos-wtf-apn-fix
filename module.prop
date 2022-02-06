@@ -1,7 +1,7 @@
 id=oos-nos-wtf-apn-fix
-name=OOS NOS/WTF APN Fix
+name=OOS11 NOS/WTF APN FIX
 version=20220206
-versionCode=5
+versionCode=6
 author=tfae
 description=Fixes MMS not sending/downloading using the Portuguese carrier NOS/WTF on OxygenOS 11
 updateJson=https://raw.githubusercontent.com/tfae/oos-nos-wtf-apn-fix/main/update.json
